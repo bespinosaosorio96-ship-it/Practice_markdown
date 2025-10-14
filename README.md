@@ -18,8 +18,8 @@ Mi meta es convertirme en un desarrollador full stack capaz de trabajar en proye
 Busco mejorar cada día mis habilidades técnicas y trabajar en proyectos colaborativos.
 
 ## 📫 Cómo contactarme
-- ✉️ Correo: [brayanespinosaosorio@example.com](mailto:brayanespinosaosorio@example.com)
-- 🌐 GitHub: [BrayanEspinosaOsorio](https://github.com/BrayanEspinosaOsorio)
+- ✉️ Correo: bespinosaosorio96@gmail.com
+- 🌐 GitHub: bespinosaosorio96
 
 ## 🎨 Extras
 ✨ Me gusta aprender, compartir conocimiento y experimentar con nuevas tecnologías.
